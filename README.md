@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="#"><img title="BOT-C.D.R-OFC" src="https://telegra.ph/file/343e60521da533ea8a2d3.jpg/badge/a -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
+<a href="#"><img title="BOT-C.D.R-OFC" src="https://github.com/ERICK13243.jpg/badge/a -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
 </p>
 
 ### `👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
