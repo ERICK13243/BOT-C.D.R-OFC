@@ -1,9 +1,7 @@
 > <b>  🚀 Version 1.1.0 </b>
 
 
-<p align="center">
-<a href="#"><img title="BOT-C.D.R-OFC" src="https://github.com/ERICK13243.jpg/badge/a -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
-</p>
+<a href="https://github.com/ERICK132431"><img src="https://github.com/ERICK13243.png" width="300" height="300" alt="elrebelde21"/></a>
 
 ### `👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <p align="center">
