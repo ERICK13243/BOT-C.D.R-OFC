@@ -1,4 +1,4 @@
-> <b>  🚀 Version 1.1.0 </b>
+> <b>  🥷 Version veta </b>
 
 
 <a href="https://github.com/ERICK132431"><img src="https://github.com/ERICK13243.png" width="300" height="300" alt="elrebelde21"/></a>
@@ -8,13 +8,8 @@
 <a href="https://github.com/ERICK13243"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
     
-<a href="wa.me/573183650526" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="wa.me/447863572502" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-### `🟢 Bot Oficial 🟢`
-<a href="https://wa.me/584125418042" target="blank"><img src="https://img.shields.io/badge/NovaBot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
------------------- 
 
 ### `🟢 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙴𝙽 𝚁𝙴𝙿𝙻𝙸𝚃`
 
