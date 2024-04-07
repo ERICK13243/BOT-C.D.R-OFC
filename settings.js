@@ -5,18 +5,18 @@ const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js')
 
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["573026191480", "Owner", true], ["593968585383"], ["5492266466080"], ["595986172767"], ["5492266613038"], ["5217294888993"],["5214437863111"], ["51906662557"], ["595992302861"], ["5217441298510"], ["5491155983299"], ["5493795319022"], ["5217821153974"], ["573012482597"]]
+global.owner = [["447863572502", "Owner", true], ["447863572502"], ["447863572502"], ["447863572502"], ["447863572502"], ["447863572502"],["447863572502"], ["447863572502"], ["447863572502"], ["447863572502"], ["447863572502"], ["447863572502"], ["447863572502"], ["447863572502"]]
 global.mods = []
 global.premium = []  
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
-global.wm = 'Ｎ Ｏ Ｖ Ａ Ｂ Ｏ Ｔ- Ｍ Ｄ 💫'
+global.botname = "𝑩𝑶𝑻-𝑪.𝑫.𝑹."
+global.wm = ' 𝑩 𝑶 𝑻 𝑪.𝑫.𝑹.'
 global.vs = '1.1.0'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "" //Ejemplo: +447863572502
 global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
@@ -72,7 +72,7 @@ global.APIKeys = {
 };
  
 //---------[ STICKERS ]---------
-global.packname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
+global.packname = "𝑩𝑶𝑻-𝑪.𝑫.𝑹."
 global.author = `${vs}`
  
 //---------[ IMAGEN ]---------
@@ -82,23 +82,11 @@ global.imagen3 = fs.readFileSync('./media/menu3.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACES ]---------
-global.md = 'https://github.com/elrebelde21/NovaBot-MD'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.faceb = 'https://facebook.com/groups/872989990425789/'
-
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update 
-global.nn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //LoliBot
-global.nn2 = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Loli & Nova
-global.nn3 = 'https://chat.whatsapp.com/Ej5AUrpmYnJKYtEa6YMwK6' //Grupo de Colaboracion
-global.nn4 = 'https://chat.whatsapp.com/E9qJfvlLjENKAxnhII9rao' // Grupo COL 2
-global.nn5 = 'https://chat.whatsapp.com/B6vVEmV3zffHNyabOMtzSb' //Grupo COL 3
-global.nn6 = 'https://chat.whatsapp.com/Em4Byf4w5VgHObPvZQlfnM' //test
-global.nn7 = 'https://chat.whatsapp.com/FDRfhecUGrCEQswkg8FUYz' //Grupo ayuda sobre el bot
-global.nn8 = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //enlace lolibot
-global.multi = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 4
-global.nna2 = 'Em4Byf4w5VgHObPvZQlfnM'
+global.md = 'https://github.com/ERICK13243/BOT-C.D.R-OFC'
+global.yt = 'null'
+global.tiktok = 'null'
+global.fb = 'null'
+global.faceb = 'null'
 
 //---------[ INFO ]--------- 
 global.info = { wait: '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*', 
