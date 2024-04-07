@@ -122,7 +122,7 @@ if (prefix == 'a' || prefix == 'A') return
 if (!text) return m.reply(`${lenguaje.lengua.ia} ${prefix + command} Recomienda un top 10 de películas de acción`) 
 try {
 conn.sendPresenceUpdate('composing', m.chat);
-let sistema1 = `Actuaras como un Bot de WhatsApp el cual fue creado por elrebelde21, tu seras NovaBot-MD`;
+let sistema1 = `Actuaras como un Bot de WhatsApp el cual fue creado por Erick el pitudo, tu seras 𝑩𝑶𝑻-𝑪.𝑫.𝑹.`;
 async function getOpenAIChatCompletion(texto) {
 const openaiAPIKey = global.openai_key;
 let chgptdb = global.chatgpt.data.users[m.sender];
@@ -145,7 +145,7 @@ if (botIA222.data.choices[0].text == 'error' || botIA222.data.choices[0].text ==
 m.reply(botIA222.data.choices[0].text.trim());
 } catch {
 try {
-const syms1 = `Actuaras como un Bot de WhatsApp el cual fue creado por elrebelde21, tu seras NovaBot-MD`
+const syms1 = `Actuaras como un Bot de WhatsApp el cual fue creado por Erick el pitudo, tu seras 𝑩𝑶𝑻-𝑪.𝑫.𝑹`
 const Empireapi1 = await fetch(`https://api.cafirexos.com/api/chatgpt?text=${text}&name=${m.name}&prompt=${syms1}`);
 const empireApijson1 = await Empireapi1.json();
 if (empireApijson1.resultado == 'error' || empireApijson1.resultado == '' || !empireApijson1.resultado) return XD; // causar error undefined para lanzar msg de error
@@ -196,7 +196,7 @@ if (command == 'ss' || command == 'ssweb') {
 const scp1 = require('../libs/scraper') 
 if (!text) return m.reply(`${lenguaje.lengua.ejem} ${prefix+command} link`)
 m.react("🔍") 
-conn.fakeReply(m.chat, `${lenguaje.lengua.espere}`, '0@s.whatsapp.net', 'No haga spam')
+conn.fakeReply(m.chat, `${lenguaje.lengua.espere}`, '0@s.whatsapp.net', 'No haga spam cara de verga')
 let krt = await scp1.ssweb(q)
 conn.sendMessage(m.chat, {image:krt.result, caption: info.result}, {quoted:m, ephemeralExpiration: 24*60*100, disappearingMessagesInChat: 24*60*100})}
 
@@ -271,7 +271,7 @@ const moment = require('moment-timezone')
   const tzAS = moment().tz('Asia/Jakarta').format('DD/MM HH:mm');
   const tzAF = moment().tz('Africa/Malabo').format('DD/MM HH:mm');
   await conn.sendMessage(m.chat, {text: `┏╼┅┅⪻ \`\`\`ZONA-HORARIA 🗺️\`\`\` ⪼┅┅┅┓
-┋• Perú       : ${tzPE}
+┋• Perúkistan      : ${tzPE}
 ┋• México     : ${tzMX}
 ┋• Bolivia    : ${tzBO}
 ┋• Chile      : ${tzCL}
