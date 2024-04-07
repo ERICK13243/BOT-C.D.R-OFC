@@ -1,4 +1,4 @@
-> <b>  🥷 Version veta </b>
+> <b>  🥷 Version beta </b>
 
 
 <a href="https://github.com/ERICK132431"><img src="https://github.com/ERICK13243.png" width="300" height="300" alt="elrebelde21"/></a>
